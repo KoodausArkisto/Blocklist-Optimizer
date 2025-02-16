@@ -81,7 +81,7 @@ base_name_entry = tk.Entry(root, font=("Arial", 10))
 base_name_entry.pack(pady=5)
 
 # Ohjeet
-# Instructions
+
 instructions = tk.Label(
     root, text="Enter each IP or domain on a new line.\n"
     "Max items per file sets how many entries are in each output.\n"
